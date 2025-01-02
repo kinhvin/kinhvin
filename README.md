@@ -13,6 +13,7 @@
 - Feel free to email me at either kevintruong.code@gmail.com or kevintruong.inbox@gmail.com!
 
 🤝 Connect with me!
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 www.linkedin.com/in/kevin-truong-cs
 
 
