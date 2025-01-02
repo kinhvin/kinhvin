@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Kevin Truong 
 
-**I'm an aspiring developer studying Computer Science @ Carleton University, looking to specialize in either AI and ML or Cybersecurity!**
+**I'm an aspiring developer studying Computer Science @ Carleton University, looking to specialize in either AI and Machine Learning or Cybersecurity!**
 
 ### 🔭 I’m currently working on ...
 - A personal portfolio website
@@ -20,7 +20,7 @@
 - Feel free to email me at either kevintruong.code@gmail.com or kevintruong.inbox@gmail.com!
 
 ### 🤝 Connect with me!
-<a href="www.linkedin.com/in/kevin-truong-cs" target="_blank">
+<a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn">
 </a>
 
