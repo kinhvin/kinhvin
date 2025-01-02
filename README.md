@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hey there 👋
+
+🔭 I’m currently working on ...
+- A personal portfolio website
+- A website for a local Vietnamese desserts business
+- I plan to make a discord bot that can track the prices of products
+
+🌱 I’m currently learning ...
+- HTML, CSS, Javascript
+- I would like to learn how to use the MERN stack (MongoDB, Express, React and Node) as well!
+
+📫 How to reach me:
+- Feel free to email me at either kevintruong.code@gmail.com or kevintruong.inbox@gmail.com!
+
+🤝 Connect with me!
+www.linkedin.com/in/kevin-truong-cs
+
 
 <!--
 **kinhvin/kinhvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
