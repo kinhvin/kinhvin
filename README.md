@@ -9,12 +9,13 @@
 - I also plan on working on a collaborative web app project
 
 ### 🌱 I’m currently learning ...
-- HTML, CSS, Javascript
+- Web Development using: **HTML, CSS, Javascript**
 - I would like to learn how to use the MERN stack (MongoDB, Express, React and Node) as well!
 
 ### 💻 My TechStack ...
-- Java is the language I have the most experience with
-- I have a decent amount of experience using Python and C as well
+- **Java** is the language I have the most experience and confidence with
+- I have a decent amount of experience using **Python** and **C** as well
+- I am currently strengthening my skills in using **HTML**, **CSS** and **JavaScript**
 
 ### 📫 How to reach me:
 - Feel free to email me at either kevintruong.code@gmail.com or kevintruong.inbox@gmail.com!
