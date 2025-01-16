@@ -4,7 +4,7 @@
 <br>
 
 **Check out my
-<a href="kinhvin.github.io/Personal-Portfolio/" target="_blank">personal portfolio</a>!**
+<a href="https://kinhvin.github.io/Personal-Portfolio/" target="_blank">personal portfolio</a>!**
 
 ### 🔭 I’m currently working on ...
 - A website for a local Vietnamese desserts business
