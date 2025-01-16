@@ -3,8 +3,8 @@
 **I'm an aspiring developer studying Computer Science @ Carleton University, looking to specialize in either AI and Machine Learning or Cybersecurity!**
 <br>
 
-**Check out my personal portfolio!**
-<a href="kinhvin.github.io/Personal-Portfolio/" target="_blank"></a>
+**Check out my
+<a href="kinhvin.github.io/Personal-Portfolio/" target="_blank">personal portfolio</a>!**
 
 ### 🔭 I’m currently working on ...
 - A website for a local Vietnamese desserts business
