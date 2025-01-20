@@ -11,7 +11,7 @@
 - A secret web app...
 
 ### 🌱 I’m currently learning ...
-- Web Development using: **Figma & React**
+- Web Development using: **HTML, CSS and JavaScript**
 - I would like to learn how to use the MERN stack (MongoDB, Express, React and Node) as well!
 
 ### 📫 How to reach me:
@@ -19,7 +19,7 @@
 
 ### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn">
+  <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn" height="80" width="80">
 </a>
 
 
