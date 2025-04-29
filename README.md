@@ -8,11 +8,10 @@
 
 ### 🔭 I’m currently working on ...
 - A website for a local Vietnamese desserts business
-- A secret web app...
+- Seeking Fall 2025 Internships
 
 ### 🌱 I’m currently learning ...
-- Web Development using: **HTML, CSS and JavaScript**
-- I would like to learn how to use the MERN stack (MongoDB, Express, React and Node) as well!
+- Web Development
 
 ### 📫 How to reach me:
 - Feel free to email me at either kevintruong.inbox@gmail.com or kevintruong.code@gmail.com!
