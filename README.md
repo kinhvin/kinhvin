@@ -8,10 +8,11 @@
 
 ### 🔭 I’m currently working on ...
 - A website for a local Vietnamese desserts business
-- Seeking Fall 2025 Internships
+- Planning on updating my portfolio
+- My backend development skills
 
 ### 🌱 I’m currently learning ...
-- Web Development
+- Full-stack development
 
 ### 📫 How to reach me:
 - Feel free to email me at either kevintruong.inbox@gmail.com or kevintruong.code@gmail.com!
