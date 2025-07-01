@@ -13,6 +13,7 @@
 
 ### 🌱 I’m currently learning ...
 - Full-stack development
+- TypeScript, React, Springboot and HTML/CSS
 
 ### 📫 How to reach me:
 - Feel free to email me at either kevintruong.inbox@gmail.com or kevintruong.code@gmail.com!
