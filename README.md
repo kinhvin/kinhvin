@@ -3,7 +3,7 @@
 **I'm an aspiring developer studying Computer Science @ Carleton University, looking to specialize in either AI and Machine Learning or Cybersecurity!**
 <br>
 
-**Check out my
+<!--**Check out my
 <a href="https://kinhvin.github.io/Personal-Portfolio/" target="_blank">personal portfolio</a>!**
 
 ### 🔭 I’m currently working on ...
@@ -17,6 +17,7 @@
 
 ### 📫 How to reach me:
 - Feel free to email me at either kevintruong.inbox@gmail.com or kevintruong.code@gmail.com!
+-->
 
 ### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
