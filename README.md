@@ -19,6 +19,8 @@
 - Feel free to email me at either kevintruong.inbox@gmail.com or kevintruong.code@gmail.com!
 -->
 
+⚡ Currently working as a Software Engineer in Test @ 8x8
+
 ### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn" height="80" width="80">
