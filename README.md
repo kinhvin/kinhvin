@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Kevin Truong 
 
-**I'm an aspiring developer studying Computer Science @ Carleton University, looking to specialize in either AI and Machine Learning or Cybersecurity!**
+**I'm an aspiring Software Engineer studying Computer Science @ Carleton University, looking to specialize in AI and Machine Learning!**
 <br>
 
 <!--**Check out my
