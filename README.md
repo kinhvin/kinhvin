@@ -5,21 +5,22 @@
 
 <!--**Check out my
 <a href="https://kinhvin.github.io/Personal-Portfolio/" target="_blank">personal portfolio</a>!**
-
-### 🔭 I’m currently working on ...
-- A website for a local Vietnamese desserts business
-- Planning on updating my portfolio
-- My backend development skills
-
-### 🌱 I’m currently learning ...
-- Full-stack development
-- TypeScript, React, Springboot and HTML/CSS
-
-### 📫 How to reach me:
-- Feel free to email me at either kevintruong.inbox@gmail.com or kevintruong.code@gmail.com!
 -->
 
-⚡ Currently working as a Software Engineer in Test @ 8x8
+⚡ Prev @ 8x8
+
+### 🔭 I’m currently working on ...
+- A P&L calendar app
+- New portfolio website
+- Finding a Summer 2026 Internship...
+
+### 🌱 I’m currently learning ...
+- Full-stack development, with a focus on backend development
+- Test Automation
+- AI/ML
+
+### 📫 How to reach me:
+- Feel free to email me at either kevintruong.inbox@gmail.com, kevintruong.code@gmail.com or kevintruong3@cmail.carleton.ca!
 
 ### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
