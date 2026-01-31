@@ -10,9 +10,8 @@
 ⚡ Prev @ 8x8
 
 ### 🔭 I’m currently working on ...
-- [x] Finding a Summer 2026 Internship...
-- [ ] New portfolio website
-- [ ] A P&L calendar app
+- New portfolio website
+- A P&L calendar app
 
 ### 🌱 I’m currently learning ...
 - Full-stack development, with a focus on backend development
