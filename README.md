@@ -3,11 +3,8 @@
 **I'm an aspiring Software Engineer studying Computer Science @ Carleton University, looking to specialize in AI and Machine Learning!**
 <br>
 
-<!--**Check out my
-<a href="https://kinhvin.github.io/Personal-Portfolio/" target="_blank">personal portfolio</a>!**
--->
-
-⚡ Prev @ 8x8
+**Check out my
+<a href="https://kevin-truong-personal-portfolio.vercel.app/" target="_blank">Personal Portfolio</a>**
 
 ### 🔭 I’m currently working on ...
 - New portfolio website
@@ -19,7 +16,7 @@
 - AI/ML
 
 ### 📫 How to reach me:
-- Feel free to email me at either kevintruong.inbox@gmail.com, kevintruong.code@gmail.com or kevintruong3@cmail.carleton.ca!
+Feel free to email me at kevintruong3@cmail.carleton.ca!
 
 ### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
