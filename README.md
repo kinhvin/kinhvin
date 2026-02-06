@@ -7,13 +7,12 @@
 <a href="https://kevin-truong-personal-portfolio.vercel.app/" target="_blank">Personal Portfolio</a>**
 
 ### 🔭 I’m currently working on ...
-- New portfolio website
 - A P&L calendar app
 
-### 🌱 I’m currently learning ...
-- Full-stack development, with a focus on backend development
+### 🌱 I’m currently interested in ...
+- Backend development
+- AI / ML
 - Test Automation
-- AI/ML
 
 ### 📫 How to reach me:
 Feel free to email me at kevintruong3@cmail.carleton.ca!
