@@ -4,7 +4,7 @@
 <br>
 
 **Check out my
-<a href="https://kevin-truong-personal-portfolio.vercel.app/" target="_blank">Personal Portfolio</a>**
+<a href="https://kevin-truong-personal-portfolio.vercel.app/" target="_blank">portfolio</a>**
 
 ### 🔭 I’m currently working on ...
 - A P&L calendar app
