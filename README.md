@@ -8,14 +8,17 @@
 
 ### 🔭 I’m currently working on ...
 - A P&L calendar app
+- A reminders/habit tracking app
+- Scripting
 
 ### 🌱 I’m currently interested in ...
 - Backend development
-- AI / ML
+- Scripting
 - Test Automation
+- AI / ML
 
 ### 📫 How to reach me:
-Feel free to email me at kevintruong3@cmail.carleton.ca!
+Feel free to email me at kevintruong3@cmail.carleton.ca
 
 ### 🤝 Connect with me!
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
