@@ -1,26 +1,22 @@
 ## Hey there 👋 I'm Kevin Truong 
 
-**I'm an aspiring Software Engineer studying Computer Science @ Carleton University, looking to specialize in AI and Machine Learning!**
-<br>
+I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in **Backend Development**, **Test Automation**, and **AI/ML**.
+<br><br>
+Check out my [portfolio](https://kevin-truong-portfolio.vercel.app)
 
-**Check out my
-<a href="https://kevin-truong-portfolio.vercel.app" target="_blank">portfolio</a>**
+### I’m currently working on
+- **Nudge:** A habit tracker and reminder application
+- **P&L Calendar:** A profit and loss tracker for trading
 
-### 🔭 I’m currently working on ...
-- A P&L calendar app
-- A reminders/habit tracking app
-- Scripting
+### I would like to explore
+- **Rust:** Embedded/systems programming with a Raspberry Pi Pico W
+- **Spring Boot:** Expanding my backend architecture toolkit
+- **AI/ML:** Model training and integrations
 
-### 🌱 I’m currently interested in ...
-- Backend development
-- Scripting
-- Test Automation
-- AI / ML
-
-### 📫 How to reach me:
+### 📫 How to reach me
 Feel free to email me at kevintruong3@cmail.carleton.ca
 
-### 🤝 Connect with me!
+### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn" height="80" width="80">
 </a>
