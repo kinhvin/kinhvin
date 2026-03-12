@@ -6,6 +6,7 @@ Check out my [portfolio](https://kevin-truong-portfolio.vercel.app)
 
 ### I’m currently working on
 - **Nudge:** A habit tracker and reminder application
+- **Verdict:** Group decision-making without the argument
 - **P&L Calendar:** A profit and loss tracker for trading
 - **Tinkering**: Exploring new tech such as **Go**, building small tools, and experimenting with different ideas
 
