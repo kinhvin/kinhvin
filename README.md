@@ -1,6 +1,6 @@
 ## Hey there 👋 I'm Kevin Truong 
 
-I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in **backend development**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack apps. 
+I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in **backend development**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack and mobile apps. 
 <br><br>
 Check out my [portfolio](https://kevin-truong-portfolio.vercel.app) to learn more about me.
 
