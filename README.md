@@ -1,11 +1,11 @@
 ## Hey there 👋 I'm Kevin Truong 
 
-I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in **backend development**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack and mobile apps. 
+I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in creating **scalable backend development**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack and mobile apps. 
 <br><br>
 Check out my [portfolio](https://kevin-truong-portfolio.vercel.app) to learn more about me.
 
 ### Active Developments
-- **P&L Calendar:** A profit and loss tracker for trading with analytics and insights based on trading data
+- **PnLVue:** A profit and loss tracker for trading with analytics and insights based on trading data
   - This is currently my **main** focus as I move towards making it a real app on both mobile and web
 - **Verdict:** Group decision-making without the argument (ON HOLD)
   - The first iteration is done but needs improvement
