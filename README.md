@@ -1,21 +1,22 @@
 ## Hey there 👋 I'm Kevin Truong 
 
-I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in creating **scalable backend systems**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack and mobile apps. 
+I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in creating **scalable backend systems**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack and mobile apps.
 <br><br>
 Check out my [portfolio](https://kevin-truong-portfolio.vercel.app) to learn more about me.
 
 ### Active Developments
 - **PnLVue:** A profit and loss tracker for trading with analytics and insights based on trading data
-  - This is currently my **main** focus as I move towards making it a real app on both mobile and web
+  - Currently my **main** focus
+  - I would like to deploy it on web and mobile
 - **Verdict:** Group decision-making without the argument (ON HOLD)
-  - The first iteration is done but needs improvement
+  - V1 is done
 - **Nudge:** A habit tracker and reminder application (ON HOLD)
-  - I only roughly started this and would like to make it my main focus next
+  - Roughly started as a hobby project
 
 ### I would like to explore
+- **Spring Boot:** Expanding my backend architecture toolkit
 - **Golang:** Backend development with a focus on performance, concurrency, and simplicity
 - **Rust:** Embedded/systems programming with a Raspberry Pi Pico W
-- **Spring Boot:** Expanding my backend architecture toolkit
 - **AI/ML:** Model training and integrations
 
 ### 📫 How to reach me
