@@ -1,44 +1,18 @@
-## Hey there 👋 I'm Kevin Truong 
+# Kevin Truong
+[**Portfolio**](https://kevin-truong-portfolio.vercel.app) · [**LinkedIn**](www.linkedin.com/in/kevin-truong-cs) · [**Email**](mailto:kevintruong3@cmail.carleton.ca)
 
-I'm an aspiring Software Engineer studying Computer Science @ Carleton University, with a keen interest in creating **scalable backend systems**, and **AI/ML**. I'm comfortable working **across the stack** and have experience with **test automation**. Lately, I've been tinkering around with different projects - from creating Python scripts, to working on full-stack and mobile apps.
-<br><br>
-Check out my [portfolio](https://kevin-truong-portfolio.vercel.app) to learn more about me.
+## Past
+- [**DeDupe**](https://github.com/kinhvin/dedupe) · Python CLI for deduplicating files
+- [**Reddit Scraper**](https://github.com/kinhvin/reddit-web-scraper) · Scrape subreddit data for data analysis
+- [**CNN Classifier**](https://github.com/kinhvin/cats-vs-dogs-classifier) · Image classification with Python and Jupyter
 
-### Active Developments
-- **PnLVue:** A profit and loss tracker for trading with analytics and insights based on trading data
-  - Currently my **main** focus
-  - I would like to deploy it on web and mobile
-- **Verdict:** Group decision-making without the argument (ON HOLD)
-  - V1 is done
-- **Nudge:** A habit tracker and reminder application (ON HOLD)
-  - Roughly started as a hobby project
+## Present
+- **PnLVue** · Trading journal and P&L calendar for daily review and performance tracking
 
-### I would like to explore
-- **Spring Boot:** Expanding my backend architecture toolkit
-- **Golang:** Backend development with a focus on performance, concurrency, and simplicity
-- **Rust:** Embedded/systems programming with a Raspberry Pi Pico W
-- **AI/ML:** Model training and integrations
+## Future
+- **Verdict** · Streamlined group decision-making
+- **Nudge** · Habit reminders at your pace with contribution-style progress tracking
 
-### 📫 How to reach me
-Feel free to email me at kevintruong3@cmail.carleton.ca
-
-### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/kevin-truong-cs" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="LinkedIn" height="80" width="80">
-</a>
-
-
-<!--
-**kinhvin/kinhvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- [**CIRA**](https://www.cira.ca/en/) · Junior Developer, Registry Team (S26)
+- [**8x8**](https://www.8x8.com/) · Software Engineer in Test, HERD Team (F25)
