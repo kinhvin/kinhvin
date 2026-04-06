@@ -14,5 +14,5 @@
 - **Verdict** · Streamlined group decision-making
 
 ## Experience
-- [**8x8**](https://www.8x8.com/) · Software Engineer in Test, HERD Team (F25)
-- [**CIRA**](https://www.cira.ca/en/) · Junior Developer, Registry Team (S26)
+- [**8x8**](https://www.8x8.com) · Software Engineer in Test, HERD Team (F25)
+- [**CIRA**](https://www.cira.ca/en) · Junior Developer, Registry Team (S26)
