@@ -1,5 +1,5 @@
 # Kevin Truong
-[**Portfolio**](https://kevin-truong-portfolio.vercel.app) · [**LinkedIn**](www.linkedin.com/in/kevin-truong-cs) · [**Email**](mailto:kevintruong3@cmail.carleton.ca)
+[**Portfolio**](https://kevin-truong-portfolio.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/kevin-truong-cs) · [**Email**](mailto:kevintruong3@cmail.carleton.ca)
 
 ## Past
 - [**CNN Classifier**](https://github.com/kinhvin/cats-vs-dogs-classifier) · Image classification with Python and Jupyter
