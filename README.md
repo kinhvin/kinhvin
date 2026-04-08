@@ -8,10 +8,10 @@
 
 ## Present
 - **PnLVue** · Trading journal and P&L calendar for daily review and performance tracking
+- **Verdict** · Streamlined group decision-making
 
 ## Future
 - **Nudge** · Habit reminders at your pace with contribution-style progress tracking
-- **Verdict** · Streamlined group decision-making
 
 ## Experience
 - [**8x8**](https://www.8x8.com) · Software Engineer in Test, HERD Team (F25)
