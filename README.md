@@ -8,7 +8,7 @@
 
 ## Present
 - **PnLVue** · Trading journal and P&L calendar for daily review and performance tracking
-- **Verdict** · Streamlined group decision-making
+- [**Verdict**](https://github.com/kinhvin/verdict) · Streamlined group decision-making
 
 ## Future
 - **Nudge** · Habit reminders at your pace with contribution-style progress tracking
