@@ -11,8 +11,7 @@
 - **Subharvest** · An extension version of my Reddit web scraper project with more depth and features 
 
 ## Future
-- **Nudge** · Habit reminders at your pace with contribution-style progress tracking
-- [**Verdict**](https://github.com/kinhvin/verdict) · Streamlined group decision-making
+- We'll see!
 
 ## Experience
 - [**8x8**](https://www.8x8.com) · Software Engineer in Test, HERD Team (F25)
