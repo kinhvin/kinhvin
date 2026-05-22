@@ -7,12 +7,13 @@
 - [**DeDupe**](https://github.com/kinhvin/dedupe) · Python CLI for deduplicating files
 
 ## Present
-- **PnLVue** · Trading journal and P&L calendar for daily review and performance tracking
-- [**Verdict**](https://github.com/kinhvin/verdict) · Streamlined group decision-making
+- **Vincra** · Trading journal and P&L calendar for daily review and performance tracking, name stems from "Vincere"
+- **Subharvest** · An extension version of my Reddit web scraper project with more depth and features 
 
 ## Future
 - **Nudge** · Habit reminders at your pace with contribution-style progress tracking
+- [**Verdict**](https://github.com/kinhvin/verdict) · Streamlined group decision-making
 
 ## Experience
 - [**8x8**](https://www.8x8.com) · Software Engineer in Test, HERD Team (F25)
-- [**CIRA**](https://www.cira.ca/en) · Junior Developer, Registry Team (S26)
+- [**CIRA**](https://www.cira.ca/en) · Junior Developer, Registry Services Team (S26)
